@@ -1,2 +1,2 @@
-# kr-2025-learning
+# kr-2025-tinkering
 I'm using this repo for my own learning &amp; tinkering purposes
